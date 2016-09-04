@@ -14,3 +14,8 @@ docker run -it --rm mindfulmonk/base16-builder-docker base16-builder -s default 
 ```
 
 
+Huge thanks to:
+
+https://github.com/base16-builder/base16-builder/
+https://github.com/mhart/alpine-node
+
